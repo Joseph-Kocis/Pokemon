@@ -1,0 +1,8 @@
+Power
+75
+Type
+Flying
+PhysicalorSpecial
+Special
+Accuracy
+95

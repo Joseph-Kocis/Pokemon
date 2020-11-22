@@ -1,0 +1,8 @@
+Power
+120
+Type
+Grass
+PhysicalorSpecial
+Physical
+Accuracy
+85

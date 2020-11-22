@@ -1,0 +1,8 @@
+Power
+50
+Type
+Phsycic
+PhysicalorSpecial
+Special
+Accuracy
+100

@@ -1,0 +1,8 @@
+Power
+60
+Type
+Bug
+PhysicalorSpecial
+Special
+Accuracy
+100

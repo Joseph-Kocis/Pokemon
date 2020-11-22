@@ -1,0 +1,8 @@
+Power
+70
+Type
+Normal
+PhysicalorSpecial
+Physical
+Accuracy
+100

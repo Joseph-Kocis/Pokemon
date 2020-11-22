@@ -1,0 +1,8 @@
+Power
+90
+Type
+Poison
+PhysicalorSpecial
+Physical
+Accuracy
+95

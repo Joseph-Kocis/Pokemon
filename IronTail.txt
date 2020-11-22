@@ -1,0 +1,8 @@
+Power
+100
+Type
+Fight
+PhysicalorSpecial
+Physical
+Accuracy
+75

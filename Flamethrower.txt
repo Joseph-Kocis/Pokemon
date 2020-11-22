@@ -1,0 +1,8 @@
+Power
+95
+Type
+Fire
+PhysicalorSpecial
+Special
+Accuracy
+100

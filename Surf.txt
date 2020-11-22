@@ -1,0 +1,8 @@
+Power
+95
+Type
+Water
+PhysicalorSpecial
+Special
+Accuracy
+100
